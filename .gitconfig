@@ -1,0 +1,7 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Ivan Gonzalez
+	email = scratchmex@gmail.com
+[credential]
+	# linux helper keyring
+	helper = /usr/share/doc/git/contrib/credential/libsecret/git-credential-libsecret
