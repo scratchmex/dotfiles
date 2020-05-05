@@ -5,3 +5,5 @@
 [credential]
 	# linux helper keyring
 	helper = /usr/share/doc/git/contrib/credential/libsecret/git-credential-libsecret
+	# windows cred helper
+	helper = /mnt/c/Program\\ Files/Git/mingw64/libexec/git-core/git-credential-manager.exe
